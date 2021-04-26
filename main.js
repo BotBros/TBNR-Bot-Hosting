@@ -102,5 +102,5 @@ client.on('message', message =>{
     };
 });
  
-client.login('ODEzMjQyODU4ODYwNTc2NzY4.YDMdbg.blg7vUnxhJ_3h_d5tYmwa4H1S2Y');
+client.login('ODEzMjQyODU4ODYwNTc2NzY4.YDMdbg.kmdeJtaPxAiGCAmcuchBb14K2tc');
  
